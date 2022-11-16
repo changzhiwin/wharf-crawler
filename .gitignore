@@ -1,0 +1,7 @@
+node_modules/
+
+screenshot/*.png
+
+curl-log.out
+
+.env
